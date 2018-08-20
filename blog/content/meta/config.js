@@ -4,12 +4,12 @@ module.exports = {
   siteTitle: "PersonalBlog - a blog starter for GatsbyJS", // <title>
   shortSiteTitle: "PersonalBlog GatsbyJS Starter", // <title> ending for posts and pages
   siteDescription: "PersonalBlog is a GatsbyJS starter.",
-  siteUrl: "https://gatsby-starter-personal-blog.greglobinski.com",
-  pathPrefix: `/rishacha-blog`,
+  siteUrl: "https://rishacha.github.io",
+  pathPrefix: "/rishacha-blog",
   siteImage: "preview.jpg",
   siteLanguage: "en",
   // author
-  authorName: "greg lobinski",
+  authorName: "Rishabh Chakrabarti",
   authorTwitterAccount: "greglobinski",
   // info
   infoTitle: "greg lobinski",
@@ -17,7 +17,7 @@ module.exports = {
   // manifest.json
   manifestName: "PersonalBlog - a blog starter for GatsbyJS",
   manifestShortName: "PersonalBlog", // max 12 characters
-  manifestStartUrl: "/",
+  manifestStartUrl: "/rishacha-blog",
   manifestBackgroundColor: colors.background,
   manifestThemeColor: colors.background,
   manifestDisplay: "standalone",

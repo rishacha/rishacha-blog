@@ -105,6 +105,11 @@ exports.modifyWebpackConfig = ({ config, stage }) => {
         // ]);
       }
       break;
+    // case "build-html":
+    //   {
+    //     let x
+    //   }
+    //   break;
   }
   return config;
 };
